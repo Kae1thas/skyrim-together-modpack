@@ -1,0 +1,490 @@
+[
+  {
+    "name": "- Skyrim 202X - 2K",
+    "version": "10.5.2",
+    "enabledInVortex": true,
+    "deployed": true,
+    "folder": "Mods/01",
+    "files": 2145
+  },
+  {
+    "name": "9.0.1 A Quality World Map - Vivid with Stone Roads",
+    "version": "9.0.1",
+    "enabledInVortex": true,
+    "deployed": true,
+    "folder": "Mods/02",
+    "files": 32
+  },
+  {
+    "name": "A Quality World Map - Russian Translation",
+    "version": "9.0.1SE",
+    "enabledInVortex": true,
+    "deployed": true,
+    "folder": "Mods/03",
+    "files": 13
+  },
+  {
+    "name": "Achievements Mods Enabler SE-AE",
+    "version": "1.41",
+    "enabledInVortex": true,
+    "deployed": true,
+    "folder": "Mods/04",
+    "files": 4
+  },
+  {
+    "name": "Address Library All in One (1.7.104.0) v13",
+    "version": "13",
+    "enabledInVortex": true,
+    "deployed": true,
+    "folder": "Mods/05",
+    "files": 24
+  },
+  {
+    "name": "Alternate Start - Live Another Life - SSE",
+    "version": "4.1.4",
+    "enabledInVortex": true,
+    "deployed": true,
+    "folder": "Mods/06",
+    "files": 176
+  },
+  {
+    "name": "Alternate Start - Live Another Life",
+    "version": "4.2.6a",
+    "enabledInVortex": true,
+    "deployed": true,
+    "folder": "Mods/07",
+    "files": 7
+  },
+  {
+    "name": "Better Dialogue Controls v1_2",
+    "version": "1.2",
+    "enabledInVortex": true,
+    "deployed": true,
+    "folder": "Mods/08",
+    "files": 1
+  },
+  {
+    "name": "Better Jumping NG",
+    "version": "1.9.5",
+    "enabledInVortex": true,
+    "deployed": true,
+    "folder": "Mods/09",
+    "files": 2
+  },
+  {
+    "name": "Better MessageBox Controls v1_2",
+    "version": "1.2",
+    "enabledInVortex": true,
+    "deployed": true,
+    "folder": "Mods/10",
+    "files": 1
+  },
+  {
+    "name": "Better Third Person Selection (AE - SE)",
+    "version": "0.9.0",
+    "enabledInVortex": true,
+    "deployed": true,
+    "folder": "Mods/11",
+    "files": 23
+  },
+  {
+    "name": "Blended Roads",
+    "version": "1.7",
+    "enabledInVortex": true,
+    "deployed": true,
+    "folder": "Mods/12",
+    "files": 109
+  },
+  {
+    "name": "Crash Logger SSE AE VR - PDB support - CrashLogger",
+    "version": "1.27.0",
+    "enabledInVortex": true,
+    "deployed": true,
+    "folder": "Mods/13",
+    "files": 3
+  },
+  {
+    "name": "ETHEREAL CLOUDS SE - 4K",
+    "version": "3.0",
+    "enabledInVortex": true,
+    "deployed": true,
+    "folder": "Mods/14",
+    "files": 13
+  },
+  {
+    "name": "Enhanced Volumetric Lighting and Shadows (EVLaS) - EVLaS",
+    "version": "1.4.1",
+    "enabledInVortex": true,
+    "deployed": true,
+    "folder": "Mods/15",
+    "files": 2
+  },
+  {
+    "name": "SSE Engine Fixes (skse64 plugin) - Engine Fixes 7.0.21 beta for Skyrim AE 1.7.99",
+    "version": "7.0.21",
+    "enabledInVortex": true,
+    "deployed": true,
+    "folder": "Mods/16",
+    "files": 5
+  },
+  {
+    "name": "Enhanced Blood Textures",
+    "version": "4.0",
+    "enabledInVortex": true,
+    "deployed": true,
+    "folder": "Mods/17",
+    "files": 139
+  },
+  {
+    "name": "Enhanced Lights and FX - Russian",
+    "version": "1",
+    "enabledInVortex": true,
+    "deployed": true,
+    "folder": "Mods/18",
+    "files": 13
+  },
+  {
+    "name": "Enhanced Lights and FX",
+    "version": "3.06",
+    "enabledInVortex": true,
+    "deployed": true,
+    "folder": "Mods/19",
+    "files": 542
+  },
+  {
+    "name": "FLICK - Fuzz's Legally Intelligible Core Kit - FLICK NG",
+    "version": "1.4.0",
+    "enabledInVortex": true,
+    "deployed": true,
+    "folder": "Mods/20",
+    "files": 17
+  },
+  {
+    "name": "FSMP - Faster HDT-SMP - FSMP 4.1.1",
+    "version": "4.1.1",
+    "enabledInVortex": true,
+    "deployed": true,
+    "folder": "Mods/21",
+    "files": 31
+  },
+  {
+    "name": "Face Discoloration Fix SE",
+    "version": "1.0.4",
+    "enabledInVortex": true,
+    "deployed": true,
+    "folder": "Mods/22",
+    "files": 2
+  },
+  {
+    "name": "First Person FOV SKSE",
+    "version": "1.0.11",
+    "enabledInVortex": true,
+    "deployed": true,
+    "folder": "Mods/23",
+    "files": 3
+  },
+  {
+    "name": "Footprints 1.6.1",
+    "version": "1.6.1",
+    "enabledInVortex": true,
+    "deployed": true,
+    "folder": "Mods/24",
+    "files": 3
+  },
+  {
+    "name": "Frozen Electrocuted Combustion",
+    "version": "6.1.3",
+    "enabledInVortex": true,
+    "deployed": true,
+    "folder": "Mods/25",
+    "files": 192
+  },
+  {
+    "name": "Fuz Ro D'Oh",
+    "version": "2.6",
+    "enabledInVortex": true,
+    "deployed": true,
+    "folder": "Mods/26",
+    "files": 12
+  },
+  {
+    "name": "JContainers SE",
+    "version": "4.3.2",
+    "enabledInVortex": true,
+    "deployed": true,
+    "folder": "Mods/27",
+    "files": 35
+  },
+  {
+    "name": "Landscape Fixes For Grass Mods ru",
+    "version": "5.8",
+    "enabledInVortex": true,
+    "deployed": true,
+    "folder": "Mods/28",
+    "files": 1
+  },
+  {
+    "name": "MCM Helper",
+    "version": "1.6.3",
+    "enabledInVortex": true,
+    "deployed": true,
+    "folder": "Mods/29",
+    "files": 8
+  },
+  {
+    "name": "No Grass In Objects - NGIO - NG (2.0.3)",
+    "version": "2.0.3",
+    "enabledInVortex": true,
+    "deployed": true,
+    "folder": "Mods/30",
+    "files": 2
+  },
+  {
+    "name": "Nordic Snow 4.1",
+    "version": "4.1",
+    "enabledInVortex": true,
+    "deployed": false,
+    "folder": "Mods/31",
+    "files": 20
+  },
+  {
+    "name": "Open World Loot - Encounter Zone (Ru)",
+    "version": "1.3.5",
+    "enabledInVortex": true,
+    "deployed": true,
+    "folder": "Mods/32",
+    "files": 1
+  },
+  {
+    "name": "Papyrus Extender",
+    "version": "6.5.2",
+    "enabledInVortex": true,
+    "deployed": true,
+    "folder": "Mods/33",
+    "files": 18
+  },
+  {
+    "name": "Realistic Water Two SE v5.7.3",
+    "version": "5.7.3",
+    "enabledInVortex": true,
+    "deployed": true,
+    "folder": "Mods/34",
+    "files": 769
+  },
+  {
+    "name": "Realiustic Water Two",
+    "version": "5.7.3",
+    "enabledInVortex": true,
+    "deployed": true,
+    "folder": "Mods/35",
+    "files": 1
+  },
+  {
+    "name": "Skyrim Flora Overhaul SE - SFO No Grass version",
+    "version": "2.73c",
+    "enabledInVortex": true,
+    "deployed": true,
+    "folder": "Mods/36",
+    "files": 689
+  },
+  {
+    "name": "SKSE Menu Framework",
+    "version": "3.23",
+    "enabledInVortex": true,
+    "deployed": true,
+    "folder": "Mods/37",
+    "files": 19
+  },
+  {
+    "name": "Static Mesh Improvement Mod - SMIM RU - SMIM RU",
+    "version": "2.08",
+    "enabledInVortex": true,
+    "deployed": true,
+    "folder": "Mods/38",
+    "files": 1
+  },
+  {
+    "name": "Static Mesh Improvement Mod - SMIM - SMIM SE 2-08",
+    "version": "2.08",
+    "enabledInVortex": true,
+    "deployed": true,
+    "folder": "Mods/39",
+    "files": 1427
+  },
+  {
+    "name": "SSE Display Tweaks",
+    "version": "0.5.25",
+    "enabledInVortex": true,
+    "deployed": true,
+    "folder": "Mods/40",
+    "files": 2
+  },
+  {
+    "name": "Security Overhaul SKSE - Add-ons",
+    "version": "0.1.9.1",
+    "enabledInVortex": true,
+    "deployed": true,
+    "folder": "Mods/41",
+    "files": 23
+  },
+  {
+    "name": "Simplicity of Snow",
+    "version": "0.28",
+    "enabledInVortex": false,
+    "deployed": true,
+    "folder": "Mods/42",
+    "files": 86
+  },
+  {
+    "name": "SkyHUD v090B v4",
+    "version": "0.90B",
+    "enabledInVortex": true,
+    "deployed": true,
+    "folder": "Mods/43",
+    "files": 4
+  },
+  {
+    "name": "SkyUI",
+    "version": "6.11",
+    "enabledInVortex": true,
+    "deployed": true,
+    "folder": "Mods/44",
+    "files": 2
+  },
+  {
+    "name": "Skyrim Script Extender (SKSE64) Steam",
+    "version": "2.3.1",
+    "enabledInVortex": true,
+    "deployed": true,
+    "folder": "Mods/45",
+    "files": 129
+  },
+  {
+    "name": "Skyrim Souls RE - Unpaused Menus",
+    "version": "3.2.0",
+    "enabledInVortex": true,
+    "deployed": true,
+    "folder": "Mods/46",
+    "files": 19
+  },
+  {
+    "name": "Skyrim Together Reborn",
+    "version": "1.8.4",
+    "enabledInVortex": true,
+    "deployed": true,
+    "folder": "Mods/47",
+    "files": 505
+  },
+  {
+    "name": "Various Player Actions - Main File",
+    "version": "1.5",
+    "enabledInVortex": true,
+    "deployed": true,
+    "folder": "Mods/48",
+    "files": 2
+  },
+  {
+    "name": "True Directional Movement",
+    "version": "2.3.1",
+    "enabledInVortex": true,
+    "deployed": true,
+    "folder": "Mods/49",
+    "files": 231
+  },
+  {
+    "name": "TrueHUD - MCM RU",
+    "version": "1.1.10",
+    "enabledInVortex": true,
+    "deployed": true,
+    "folder": "Mods/50",
+    "files": 1
+  },
+  {
+    "name": "TrueHUD",
+    "version": "1.1.10",
+    "enabledInVortex": true,
+    "deployed": true,
+    "folder": "Mods/51",
+    "files": 21
+  },
+  {
+    "name": "Unofficial Skyrim Special Edition Patch",
+    "version": "4.3.9c",
+    "enabledInVortex": true,
+    "deployed": true,
+    "folder": "Mods/52",
+    "files": 8
+  },
+  {
+    "name": "Unofficial Skyrim Special Edition Patch RU",
+    "version": "4.3.9",
+    "enabledInVortex": true,
+    "deployed": true,
+    "folder": "Mods/53",
+    "files": 1
+  },
+  {
+    "name": "Unread Books Glow SSE 2.2.1",
+    "version": "2.2.1",
+    "enabledInVortex": true,
+    "deployed": true,
+    "folder": "Mods/54",
+    "files": 4
+  },
+  {
+    "name": "VHR - Vanilla Hair Replacer - Main Version",
+    "version": "2.0",
+    "enabledInVortex": true,
+    "deployed": true,
+    "folder": "Mods/55",
+    "files": 509
+  },
+  {
+    "name": "Verdant - A Skyrim Grass Plugin - ESPFE",
+    "version": "1.9",
+    "enabledInVortex": true,
+    "deployed": true,
+    "folder": "Mods/56",
+    "files": 688
+  },
+  {
+    "name": "Vivid Weathers - Definitive Edition X25",
+    "version": "2.5.3",
+    "enabledInVortex": true,
+    "deployed": true,
+    "folder": "Mods/57",
+    "files": 9
+  },
+  {
+    "name": "imGui Icons",
+    "version": "1.2.0",
+    "enabledInVortex": true,
+    "deployed": true,
+    "folder": "Mods/58",
+    "files": 163
+  },
+  {
+    "name": "moreHUD Inventory Edition - AE and SE",
+    "version": "2.2.4.0",
+    "enabledInVortex": true,
+    "deployed": true,
+    "folder": "Mods/59",
+    "files": 6
+  },
+  {
+    "name": "moreHUD for SE and AE",
+    "version": "5.4.7.0",
+    "enabledInVortex": true,
+    "deployed": true,
+    "folder": "Mods/60",
+    "files": 5
+  },
+  {
+    "name": "powerofthree's Tweaks",
+    "version": "1.18.0",
+    "enabledInVortex": true,
+    "deployed": true,
+    "folder": "Mods/61",
+    "files": 4
+  }
+]
